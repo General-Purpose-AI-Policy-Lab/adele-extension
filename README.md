@@ -6,23 +6,15 @@ Le projet exploite les données des deux articles **ADeLe** pour exprimer les pe
 
 ## Objectifs
 
-**Objectif minimal**
+**Objectif principal**
 - Situer les modèles d'IA dans les percentiles des personnes ayant passé les tests ADeLe.
-  → présenter des résultats marquants aux décideurs et affiner nos timelines internes.
 
-**Objectifs secondaires**
-- Même analyse pour une approximation de la population mondiale (→ communication aux décideurs).
-- Même analyse pour une approximation de la population des chercheurs en IA (→ affiner les paramètres du AI Futures Model).
-- Forecasting des tendances de progression sur ces percentiles (→ timelines internes et présentation aux décideurs).
+**Extensions**
+- Même analyse en référence à une approximation de la population mondiale.
+- Même analyse en référence à une approximation de la population des chercheurs en IA.
+- Forecasting des tendances de progression sur ces percentiles.
 
 Pour le choix des percentiles, on s'inspire de l'approche du [AI Futures Model](https://www.aifuturesmodel.com/) (cf. l'encadré *« More on interpreting TAISD, and the definitions of SIAR, TED-AI, and ASI »*).
-
-## Livrables
-
-- **Partie technique** : modèles d'IA exprimés en percentiles de groupes d'humains pertinents.
-- **Note interne** expliquant les résultats.
-- **Présentation** à l'équipe.
-- *Souhaitable* : blogpost GPAI, éventuellement crosspost sur LessWrong.
 
 ## Ressources
 
