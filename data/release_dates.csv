@@ -1,22 +1,22 @@
-,Date de sortie,Source,Commentaire
-Babbage-002,29-aug-23,https://www.modelindex.org/index.php/model/babbage-002/,
-Davinci-002,15-mar-22,https://www.modelindex.org/index.php/model/davinci-002/,
-GPT-3.5-Turbo,13-jun-23,EpochAI,
-GPT-4o,13-may-24,EpochAI,
+Modele,Date de sortie,Source,Commentaire
+Babbage-002,29-aug-23,https://www.modelindex.org/index.php/model/babbage-002/,hors database GPAI PL
+Davinci-002,15-mar-22,https://www.modelindex.org/index.php/model/davinci-002/,consistent GPAI PL
+GPT-3.5-Turbo,1-mar-23,,"corrigé via GPAI PL. Attention, d’autres releases ultérieures existent"
+GPT-4o,13-may-24,EpochAI,"consistent GPAI PL. Attention, d’autres releases ultérieures existent"
 OpenAI o1-mini,12-sep-24,EpochAI,
-OpenAI o1,17-dec-24,EpochAI,
-LLaMA-3.2-1B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2
-LLaMA-3.2-3B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2
-LLaMA-3.2-11B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2
-LLaMA-3.2-90B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2
-LLaMA-3.1-405B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2
-DK-R1-Dist-Qwen-1.5B,25-jan-25,compliqué,"Plusieurs dates citées notamment entre le 20 et le 31 janier pour l'ensemble des DK-r1-dist-Qwen, quelques outliers dans les sources"
-DK-R1-Dist-Qwen-7B,25-jan-25,compliqué,"Plusieurs dates citées notamment entre le 20 et le 31 janier pour l'ensemble des DK-r1-dist-Qwen, quelques outliers dans les sources"
-DK-R1-Dist-Qwen-14B,25-jan-25,compliqué,"Plusieurs dates citées notamment entre le 20 et le 31 janier pour l'ensemble des DK-r1-dist-Qwen, quelques outliers dans les sources"
-DK-R1-Dist-Qwen-32B,25-jan-25,compliqué,"Plusieurs dates citées notamment entre le 20 et le 31 janier pour l'ensemble des DK-r1-dist-Qwen, quelques outliers dans les sources"
-Gemini-2.5-Flash,17-jun-25,https://blog.google/products-and-platforms/products/gemini/gemini-2-5-model-family-expands/,Plusieurs dates apparaissent pour 2.5 Flash rien que sur l'ECI (Epoch)
-Gemini-3.1-Flash,19-feb-26,Guess,"Basé sur le fait que Gemini a tendance à release les versions flash et pro de même numéro le même jour, mays je n'ai pas pu vérifier pour ce cas"
-Gemini-3.1-Pro,19-feb-26,EpochAI,
-LLaMA-4-17B-128E,05-apr-25,https://llm-release-dashboard.vercel.app/,Supposant que 'LLaMA 4' correspond à une unique date de sortie
+OpenAI o1,5-dec-24,,"corrigé via GPAI PL. Attention, d’autres releases ultérieures existent"
+LLaMA-3.2-1B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2 ; consistant à 1 jour avec GPAI PL
+LLaMA-3.2-3B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2 ; consistant à 1 jour avec GPAI PL
+LLaMA-3.2-11B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2 ; hors database GPAI PL pour ce nom exact
+LLaMA-3.2-90B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2 ; consistant à 1 jour avec GPAI PL
+LLaMA-3.1-405B-Instruct,25-sep-24,https://llm-release-dashboard.vercel.app/,Supposant même date pour tous les LLaMA 3.2 ; hors database GPAI PL pour ce nom exact
+DK-R1-Dist-Qwen-1.5B,25-jan-25,compliqué,"Plusieurs dates citées notamment entre le 20 et le 31 janvier pour l'ensemble des DK-r1-dist-Qwen, quelques outliers dans les sources"
+DK-R1-Dist-Qwen-7B,25-jan-25,compliqué,"Plusieurs dates citées notamment entre le 20 et le 31 janvier pour l'ensemble des DK-r1-dist-Qwen, quelques outliers dans les sources"
+DK-R1-Dist-Qwen-14B,25-jan-25,compliqué,"Plusieurs dates citées notamment entre le 20 et le 31 janvier pour l'ensemble des DK-r1-dist-Qwen, quelques outliers dans les sources ; 20 janvier pour GPAI PL"
+DK-R1-Dist-Qwen-32B,25-jan-25,compliqué,"Plusieurs dates citées notamment entre le 20 et le 31 janvier pour l'ensemble des DK-r1-dist-Qwen, quelques outliers dans les sources ; 20 janvier pour GPAI PL"
+Gemini-2.5-Flash,17-jun-25,https://blog.google/products-and-platforms/products/gemini/gemini-2-5-model-family-expands/,Plusieurs dates apparaissent pour 2.5 Flash rien que sur l'ECI (Epoch). 17 avril pour ‘Preview’ dans la base GPAI PL
+Gemini-3.1-Flash,4-mar-26,GPAI PL,Date du ‘preview’ selon la base GPAI PL
+Gemini-3.1-Pro,19-feb-26,EpochAI,Date du ‘preview’ selon la base GPAI PL
+LLaMA-4-17B-128E,05-apr-25,GPAI PL,
 GPT-5.2-Chat,11-dec-25,?,?
-OpenAI o3-mini,31-jan-25,EpochAI,
+OpenAI o3-mini,31-jan-25,EpochAI,consistant GPAI PL
